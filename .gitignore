@@ -11,3 +11,5 @@ weights/
 __pycache__
 checkpoints
 raw_custom_data/
+data/custom/labels/
+data/custom/images/
