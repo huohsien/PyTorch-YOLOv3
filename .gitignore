@@ -10,6 +10,8 @@ backup
 weights/
 __pycache__
 checkpoints
-raw_custom_data/
 data/custom/labels/
 data/custom/images/
+raw_data/
+data/custom/images.tgz
+data/custom/labels.tgz
