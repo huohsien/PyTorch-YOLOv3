@@ -13,5 +13,4 @@ checkpoints
 data/custom/labels/
 data/custom/images/
 raw_data/
-data/custom/images.tgz
-data/custom/labels.tgz
+logs/
