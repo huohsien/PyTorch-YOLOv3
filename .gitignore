@@ -9,8 +9,10 @@ data/coco
 backup
 weights/
 __pycache__
-checkpoints
+checkpoints/
 data/custom/labels/
+data/custom/labels.tgz
 data/custom/images/
+data/custom/images.tgz
 raw_data/
 logs/
